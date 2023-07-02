@@ -41,7 +41,7 @@ payload:
   - '+.adjust.com'
   - '+.servicebus.windows.net'
   - '+.files.1drv.com'
-  - '+.onedrive.live.com'
+  #- '+.onedrive.live.com'
   - '+.storage.live.com'
   - '+.groups.office.live.com'
   - '+.groups.photos.live.com'
