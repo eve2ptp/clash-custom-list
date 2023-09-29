@@ -29,7 +29,7 @@ payload:
   - 'skyapi.live.net'
   - 'snapi.live.net'
   - 'storage.msn.com'
-  - '+.onedrive.com'
+  #- '+.onedrive.com'
   - '+.mesh.com'
   - '+.microsoft.com'
   - '+.crashlytics.com'
